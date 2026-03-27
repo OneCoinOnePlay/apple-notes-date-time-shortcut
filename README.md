@@ -1,4 +1,4 @@
-# Apple Notes Date/Time Shortcut on macOS
+# Apple Notes Date and Time Shortcuts
 
 This documents a working way to add keyboard shortcuts for Apple Notes that append either the current date or the current time to the selected note.
 
